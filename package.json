@@ -6,9 +6,13 @@
   "dependencies": {
     "hono": "^4.5.4",
     "mongodb": "^6.8.0",
-    "mongoose": "^8.5.2"
+    "mongoose": "^8.5.2",
+    "nodemailer": "^6.9.14",
+    "uuid": "^10.0.0"
   },
   "devDependencies": {
-    "@types/bun": "latest"
+    "@types/bun": "latest",
+    "@types/nodemailer": "^6.4.15",
+    "@types/uuid": "^10.0.0"
   }
 }
